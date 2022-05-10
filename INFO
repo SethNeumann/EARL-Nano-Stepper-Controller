@@ -1,7 +1,7 @@
 title: Repo Name - the repo name must exactly match the project directory name as well as the names of the brd and sch files
 designer: Seth Neuman, Earl Girbovan
-fabricated: no
-fab_date: YYYY-MM
-status: Pick one of   experimental
+fabricated: yes
+fab_date: 222-05
+status: Pick one of production
 publish: Pick one of  yes
-tags: [MRCS, SPCoast, eagle]
+tags: [MRCS, SPCoast, eagle, EARL]
