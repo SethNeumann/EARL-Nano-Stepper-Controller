@@ -44,3 +44,5 @@ Work files/Earl-Nano-Stepper.s\#5
 *.pro
 Work files/Earl-Nano-Stepper sch.pdf
 Work files/Earl-Nano-Stepper-top-layout.pdf
+*.csv
+*.xlsx
